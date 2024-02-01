@@ -1,0 +1,14 @@
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\obj\Debug\net8.0\Disposable_GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\obj\Debug\net8.0\Disposable_GarbageCollector.AssemblyInfoInputs.cache
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\obj\Debug\net8.0\Disposable_GarbageCollector.AssemblyInfo.cs
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\obj\Debug\net8.0\Disposable_GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\bin\Debug\net8.0\Disposable_GarbageCollector.exe
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\bin\Debug\net8.0\Disposable_GarbageCollector.deps.json
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\bin\Debug\net8.0\Disposable_GarbageCollector.runtimeconfig.json
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\bin\Debug\net8.0\Disposable_GarbageCollector.dll
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\bin\Debug\net8.0\Disposable_GarbageCollector.pdb
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\obj\Debug\net8.0\Disposable_GarbageCollector.dll
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\obj\Debug\net8.0\refint\Disposable_GarbageCollector.dll
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\obj\Debug\net8.0\Disposable_GarbageCollector.pdb
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\obj\Debug\net8.0\Disposable_GarbageCollector.genruntimeconfig.cache
+C:\Users\nimisha.suresh\Disposable_GarbageCollector\obj\Debug\net8.0\ref\Disposable_GarbageCollector.dll
